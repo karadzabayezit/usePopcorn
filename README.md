@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Find info about a movie fast
+
+// For study
+
+https://karadzabayezit.github.io/usePopcorn/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
